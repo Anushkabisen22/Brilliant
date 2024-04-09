@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51fd9ed5.css",
+    "main.js": "/static/js/main.1f686ebf.js",
+    "static/media/img.png": "/static/media/img.59f06e4a6487bf5bedb4.png",
+    "static/media/course.png": "/static/media/course.8fb31b994d90d917ace5.png",
+    "static/media/weight.png": "/static/media/weight.55bfd917d148ecd52af9.png",
+    "static/media/Arrow.png": "/static/media/Arrow.fc0f543158df05ceb3e5.png",
+    "static/media/Globe.png": "/static/media/Globe.58bda8c928c24b1be410.png",
+    "static/media/que3.png": "/static/media/que3.e5e3a25f43ed8a25f0c6.png",
+    "static/media/que2.png": "/static/media/que2.c70dca032e701b934de7.png",
+    "static/media/Teacher.png": "/static/media/Teacher.aebce58fa83d71e8f354.png",
+    "static/media/Student.png": "/static/media/Student.fc9a05122c8be280a12a.png",
+    "static/media/Lifelong Learner.png": "/static/media/Lifelong Learner.12b17a3e52daa2595ce6.png",
+    "static/media/Parent.png": "/static/media/Parent.ea8e825281f05321db89.png",
+    "index.html": "/index.html",
+    "main.51fd9ed5.css.map": "/static/css/main.51fd9ed5.css.map",
+    "main.1f686ebf.js.map": "/static/js/main.1f686ebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51fd9ed5.css",
+    "static/js/main.1f686ebf.js"
+  ]
+}
